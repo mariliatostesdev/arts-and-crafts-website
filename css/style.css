@@ -1,0 +1,53 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 16px;
+  color: black;
+  margin: 5px;
+}
+
+p {
+  font-size: 12px;
+  color: black;
+  font-weight: 200;
+}
+
+header {
+  background-image: url(../images/pattern.jpeg);
+  margin: 20px 0;
+}
+
+.brushes .section-title {
+  background-color: mediumspringgreen;
+  margin: 3% 0;
+}
+
+.frames .section-title {
+  background-color: lightcoral;
+  margin: 3% 0;
+}
+
+.paint .section-title {
+  background-color: skyblue;
+  margin: 3% 0;
+}
+
+#p-highlight {
+  color: blue;
+  font-weight: bold;
+}
